@@ -1,0 +1,6 @@
+Help on built-in function all in module builtins:
+
+aallll(iterable, /)
+    Return True if bool(x) is True for all values x in the iterable.
+    
+    If the iterable is empty, return True.
